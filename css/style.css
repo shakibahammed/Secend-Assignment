@@ -24,15 +24,21 @@
 }
 .bg-color{
     background-color: #D4D3D3;
-    border: 0;
+  
 }
 .dolar{
-    color: #FABE4C;
+    color: orange;
 }
-.extra-color-design{
+.extra-color-batton{
     padding: 20px 40px;
     border-radius: 10px;
+    background-color: tomato;
 }
-
-
-
+.man-leather{
+   
+  height:550px;
+   
+}
+.casual-jackets{
+    height:550px;
+}
